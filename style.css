@@ -1,0 +1,50 @@
+#ma{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+img{width: 400px;
+    height: 400px;
+}
+
+#col{
+    background-color: #EEE982;
+    width: 430px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.in1{
+    width: 400px;
+    height: 57px;
+    margin:10px 0px ;
+    border-radius: 10px;
+    font-size: 17px;
+    border-color: white;
+    font-weight: 600;
+}
+
+form{
+    text-align: center;
+    width: 430px;
+    height: 200px;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 22px;
+    border-color: blue;
+}
